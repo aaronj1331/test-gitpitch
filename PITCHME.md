@@ -1,8 +1,6 @@
-#HSLIDE?image=http://spark.apache.org/docs/latest/img/cluster-overview.png&slide_id=12345
-
 # First slide
 
-#HSLIDE
+#HSLIDE?image=https://www.lds.org/bc/content/ldsorg/home-strata-live/2016/BOM-Online-Art-Exhibit-Records-lvl-H-3-212291-mormon-church.jpg
 
 # Second slide
 

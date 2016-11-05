@@ -1,4 +1,4 @@
-#HSLIDE
+#HSLIDE?slide-id=12345
 
 # First slide
 

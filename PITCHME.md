@@ -1,4 +1,4 @@
-#HSLIDE?slide-id=12345
+#HSLIDE?slide_id=12345&image=http://spark.apache.org/docs/latest/img/cluster-overview.png
 
 # First slide
 
